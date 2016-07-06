@@ -3,5 +3,8 @@ class PagesController < ApplicationController
   end
   def superman
   end
-  
+
+  def batmnanvssuperman
+  end
+
 end
